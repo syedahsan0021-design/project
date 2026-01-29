@@ -4,3 +4,13 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+button{
+    padding: 10px;
+    background-color: green;
+    border-radius: 6%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border: none;
+    width: 150px;
+}
